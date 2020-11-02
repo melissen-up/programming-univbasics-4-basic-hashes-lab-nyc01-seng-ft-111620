@@ -4,8 +4,8 @@ end
 
 def my_hash
   new_hash = {
-    firstname: Rey,
-    lastname: Nobody
+    firstname: "Rey",
+    lastname: "Nobody"
   }
 end
 
