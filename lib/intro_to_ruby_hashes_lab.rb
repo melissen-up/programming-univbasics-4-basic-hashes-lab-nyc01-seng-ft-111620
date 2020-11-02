@@ -20,5 +20,4 @@ def id_hash_generator(number)
  generator = {
    id: number
  }
- }
 end
